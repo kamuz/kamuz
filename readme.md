@@ -1,4 +1,4 @@
-# Hey, there 👋!
+# Hey, there!
 
 I'm Full Stack WordPress Developer From Ukraine.
 
