@@ -11,3 +11,5 @@ Visit my Upwork profile for more information about my skills, completed projects
 - [Upwork](https://clc.la/upwork)<br>
 - [Telegram](https://t.me/vladimir_kamuz)<br>
 - [Youtube](https://youtube.com/vladimirkamuz)
+- [LinkedIn](https://www.linkedin.com/in/vladimir-kamuz-4a192a60/)
+- [Facebook](https://www.facebook.com/volodyakamuz)
