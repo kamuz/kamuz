@@ -1,4 +1,4 @@
-# Heya!
+# Hello, World!
 
 I'm Full Stack WordPress Developer From Ukraine.
 
@@ -6,7 +6,7 @@ At the moment, I'm working only remote and only via Upwork. Pay attention to thi
 
 Visit my Upwork profile for more information about my skills, completed projects, hourly rate, client feedbacks etc.
 
-## Find me online 
+Find me online:
 
 - [Upwork](https://clc.la/upwork)
 - [Telegram](https://t.me/vladimir_kamuz)
