@@ -1,4 +1,4 @@
-# Heya :wave:
+# Heya!
 
 I'm Full Stack WordPress Developer From Ukraine.
 
