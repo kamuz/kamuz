@@ -35,3 +35,5 @@ At the moment, I'm working only remote and only via [Upwork](https://www.upwork.
 ![Illustrator](https://img.shields.io/badge/-Illustrator-black?logoColor=white&style=flat-square&logo=adobe-illustrator)
 ![XD](https://img.shields.io/badge/-XD-black?logoColor=white&style=flat-square&logo=adobe-xd)
 ![Figma](https://img.shields.io/badge/-Figma-black?logoColor=white&style=flat-square&logo=figma)
+![IcoMoon](https://img.shields.io/badge/-IcoMoon-black?logoColor=white&style=flat-square&logo=icomoon)
+
