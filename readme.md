@@ -1,6 +1,6 @@
 # Hello, World!
 
-At the moment, I'm working only remote and only via Upwork. Pay attention to this before you write to me about a job offer. Visit my Upwork profile for more information about my skills, completed projects, hourly rate, client feedbacks etc.
+At the moment, I'm working only remote and only via [Upwork](https://www.upwork.com/freelancers/~01c645635aee41c921). Pay attention to this before you write to me about a job offer. Visit my [Upwork](https://www.upwork.com/freelancers/~01c645635aee41c921) profile for more information about my skills, completed projects, hourly rate, client feedbacks etc.
 
 ![HTML](https://img.shields.io/badge/-HTML-black?logoColor=white&style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?logoColor=white&style=flat-square&logo=css3)
@@ -28,6 +28,9 @@ At the moment, I'm working only remote and only via Upwork. Pay attention to thi
 ![Chrome](https://img.shields.io/badge/-Chrome-black?logoColor=white&style=flat-square&logo=google-chrome)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logoColor=white&style=flat-square&logo=node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?logoColor=white&style=flat-square&logo=webpack)
-
-- [upwork](https://www.upwork.com/freelancers/~01c645635aee41c921)
-- [linkedin](https://www.linkedin.com/in/vladimir-kamuz-4a192a60/)
+![Trello](https://img.shields.io/badge/-Trello-black?logoColor=white&style=flat-square&logo=trello)
+![Jira](https://img.shields.io/badge/-Jira-black?logoColor=white&style=flat-square&logo=Jira)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?logoColor=white&style=flat-square&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-black?logoColor=white&style=flat-square&logo=adobe-illustrator)
+![XD](https://img.shields.io/badge/-XD-black?logoColor=white&style=flat-square&logo=adobe-xd)
+![Figma](https://img.shields.io/badge/-Figma-black?logoColor=white&style=flat-square&logo=figma)
