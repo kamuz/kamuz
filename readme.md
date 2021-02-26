@@ -11,7 +11,6 @@ At the moment, I'm working only remote and only via Upwork. Pay attention to thi
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logoColor=white&style=flat-square&logo=mysql)
 ![Apache](https://img.shields.io/badge/-Apache-black?logoColor=white&style=flat-square&logo=apache)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?logoColor=white&style=flat-square&logo=nginx)
-
 ![WordPress](https://img.shields.io/badge/-WordPress-black?logoColor=white&style=flat-square&logo=wordpress)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-black?logoColor=white&style=flat-square&logo=woo)
 ![Gutenberg](https://img.shields.io/badge/-Gutenberg-black?logoColor=white&style=flat-square&logo=gutenberg)
@@ -20,7 +19,6 @@ At the moment, I'm working only remote and only via Upwork. Pay attention to thi
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?logoColor=white&style=flat-square&logo=graphql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logoColor=white&style=flat-square&logo=bootstrap)
 ![UIkit](https://img.shields.io/badge/-UIkit-black?logoColor=white&style=flat-square&logo=uikit)
-
 ![Docker](https://img.shields.io/badge/-Docker-black?logoColor=white&style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?logoColor=white&style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?logoColor=white&style=flat-square&logo=git)
