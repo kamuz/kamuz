@@ -2,8 +2,6 @@
 
 At the moment, I'm working only remote and only via Upwork. Pay attention to this before you write to me about a job offer. Visit my Upwork profile for more information about my skills, completed projects, hourly rate, client feedbacks etc.
 
-## Technologies
-
 ![HTML](https://img.shields.io/badge/-HTML-black?logoColor=white&style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?logoColor=white&style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-black?logoColor=white&style=flat-square&logo=sass)
@@ -32,8 +30,6 @@ At the moment, I'm working only remote and only via Upwork. Pay attention to thi
 ![Chrome](https://img.shields.io/badge/-Chrome-black?logoColor=white&style=flat-square&logo=google-chrome)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logoColor=white&style=flat-square&logo=node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?logoColor=white&style=flat-square&logo=webpack)
-
-## Contacts
 
 - [upwork](https://www.upwork.com/freelancers/~01c645635aee41c921)
 - [linkedin](https://www.linkedin.com/in/vladimir-kamuz-4a192a60/)
