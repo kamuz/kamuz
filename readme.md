@@ -10,7 +10,6 @@ At the moment, I'm working only remote and only via Upwork platform. Pay attenti
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logoColor=white&style=flat-square&logo=jQuery)
 ![PHP](https://img.shields.io/badge/-PHP-black?logoColor=white&style=flat-square&logo=php)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?logoColor=white&style=flat-square&logo=mariadb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logoColor=white&style=flat-square&logo=mysql)
 ![Apache](https://img.shields.io/badge/-Apache-black?logoColor=white&style=flat-square&logo=apache)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?logoColor=white&style=flat-square&logo=nginx)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?logoColor=white&style=flat-square&logo=wordpress)
