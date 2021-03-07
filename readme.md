@@ -8,7 +8,5 @@ At the moment, I'm working only remote and only via Upwork platform. Pay attenti
 ![PHP](https://img.shields.io/badge/-PHP-black?logoColor=white&style=flat-square&logo=php)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?logoColor=white&style=flat-square&logo=wordpress)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-black?logoColor=white&style=flat-square&logo=woo)
-![Laravel](https://img.shields.io/badge/-Laravel-black?logoColor=white&style=flat-square&logo=laravel)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logoColor=white&style=flat-square&logo=jQuery)
 ![React](https://img.shields.io/badge/-React-black?logoColor=white&style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-black?logoColor=white&style=flat-square&logo=vue.js)
