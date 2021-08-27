@@ -2,8 +2,6 @@
 
 At the moment, I'm working only remote and only via Upwork. Pay attention to this before you write to me about a job offer.
 
-I can do next:
-
 - Custom WordPress theme and plugin development
 - Websites based on Gutenberg editor and Elementor builder
 - Online store development and WooCommerce integration
