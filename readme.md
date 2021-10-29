@@ -12,7 +12,3 @@ At the moment, I'm working only remote and only via Upwork. Pay attention to thi
 - Bug fixing, support, and website migration to WordPress
 
 Visit to my Upwork Profile for more information about my hourly rate, completed projects, clients feedbacks etc.
-
-⚡ Stats ⚡                |  🔥 Streak 🔥
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=kamuz&show_icons=true&count_private=true&hide_border=true) |  ![](http://github-readme-streak-stats.herokuapp.com?user=kamuz&hide_border=true)
