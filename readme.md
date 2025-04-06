@@ -4,16 +4,16 @@ I focus on creating extremely fast, easy-to-use, and SEO-friendly websites based
 
 ⚡️ My Services:
 - Custom WordPress Development - business websites, landing pages and online stores from scratch based on your design
-- HTML templates - for websites, dashboards, and email newsletters, including SVG animations, JavaScript calculators, interactive charts, and diagrams
-- WordPress Themes Development - build classic or block themes from scratch, or customize existing ones using child themes
+- Themes Development - build classic or block themes from scratch, or customize existing ones using child themes
 - Plugin Development - compliance with WordPress coding standards, OOP architecture, writing secure, understandable and maintainable code, multilingual support
-- E-Commerce and Membership - integration into existing theme or create WooCommerce theme from scratch, checkout, cart, category and product page customization, custom AJAX search and filters, payment gateway integration, multi-currency support, booking, subscriptions and much more...
+- WooCommerce Development - integration into existing theme or create WooCommerce theme from scratch, checkout, cart, category and product page customization, custom AJAX search and filters, payment gateway integration, multi-currency support, booking, membership, subscriptions and much more...
 - Gutenberg Block Editor - custom Gutenberg blocks from scratch or using ACF Pro
 - Elementor Page Builder - building websites using Elementor, including custom add-ons and widget development.
 - API Integrations - connecting external services like Google Maps, Stripe, HubSpot, MailChimp etc.
 - WP REST API - adding or editing endpoints, JWT and OAuth authentication, CRUD operations for any post types.
-- Multilingual Websites - WPML & Polylang implementation for global businesses
+- Multilingual Support - setup WPML & Polylang, localization themes and plugins
 - Website Speed & SEO Optimization - performance tuning and technical SEO improvements for better search engine rankings and user experience
+- FrontEnd Development - HTML templates for websites, dashboards, and email newsletters, including SVG animations, JavaScript calculators, interactive charts, and diagrams
 - Technical Support & Maintenance - bug fixes, security updates, and WordPress migration other platforms
 
 ⚙️ Tech Stack:
@@ -27,4 +27,4 @@ I focus on creating extremely fast, easy-to-use, and SEO-friendly websites based
 
 I prefer working with a ready-made design and am looking for clients interested in a long-term collaboration.
 
-Visit to my Upwork Profile for more information about my hourly rate, completed projects, clients feedbacks etc.
+💬 So, If you ready to get started, just send me a message and we can discuss your project details.
