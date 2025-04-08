@@ -24,13 +24,13 @@ I focus on creating extremely fast, easy-to-use, and SEO-friendly websites based
 - Meeting deadlines
 
 ⚙️ Tech Stack:
-Frontend - HTML, Markdown, CSS, SCSS, JavaScript, ES6, TypeScript
-Backend - PHP, SQL, MySQL, Composer, WP-CLI, Twig, Blade, Shell Scripting
-Libraries and frameworks - jQuery, React, Bootstrap, Tailwind CSS, UIkit
-DevOps - Docker, Linux, Apache, Nginx, VPS, Digital Ocean, WP Engine
-Design - Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Sketch, InVision, Zeplin
-Team Work - Jira, Asana, Monday, Trello, Git, GitHub, Bitbucket
-Optimizations - Google PageSpeed Insights, GTmetrix, Pingdom, Core Web Vitals
+- Frontend - HTML, Markdown, CSS, SCSS, JavaScript, ES6, TypeScript
+- Backend - PHP, SQL, MySQL, Composer, WP-CLI, Twig, Blade, Shell Scripting
+- Libraries and frameworks - jQuery, React, Bootstrap, Tailwind CSS, UIkit
+- DevOps - Docker, Linux, Apache, Nginx, VPS, Digital Ocean, WP Engine
+- Design - Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Sketch, InVision, Zeplin
+- Team Work - Jira, Asana, Monday, Trello, Git, GitHub, Bitbucket
+- Optimizations - Google PageSpeed Insights, GTmetrix, Pingdom, Core Web Vitals
 
 I prefer working with a ready-made design and am looking for clients interested in a long-term collaboration.
 
