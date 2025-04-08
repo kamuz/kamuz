@@ -9,11 +9,11 @@ I focus on creating extremely fast, easy-to-use, and SEO-friendly websites based
 - WooCommerce - integration into existing theme or create WooCommerce theme from scratch, checkout, cart, category and product page customization, custom AJAX search and filters, payment gateway integration, multi-currency support, booking, membership, subscriptions and much more...
 - Gutenberg - custom Gutenberg blocks with React from scratch or using ACF Pro
 - Elementor - building custom websites based on Elementor Page Builder, custom add-ons and widget development.
-- API Integrations - connecting external services like Google Maps, Stripe, HubSpot, MailChimp etc.
+- External API - interaction with services such as Google Maps, Stripe, HubSpot, MailChimp, etc.
 - WP REST API - adding or editing endpoints, JWT and OAuth authentication, CRUD operations for any post types.
 - Multilingual Support - setup WPML & Polylang, localization themes and plugins
 - Website Speed & SEO Optimization - performance tuning and technical SEO improvements for better search engine rankings and user experience
-- FrontEnd Development - HTML templates for websites, dashboards, and email newsletters, including SVG animations, JavaScript calculators, interactive charts, and diagrams
+- Frontend - HTML templates for websites, dashboards, and email newsletters, including SVG animations, JavaScript calculators, interactive charts, and diagrams
 - Technical Support & Maintenance - bug fixes, security updates, and WordPress migration from other platforms
 
 💎 I guarantee:
