@@ -16,11 +16,9 @@ I focus on creating extremely fast, easy-to-use, and SEO-friendly websites based
 - Technical Support & Maintenance - bug fixes, security updates, and WordPress migration from other platforms
 
 💎 I guarantee:
-- Attention to details
-- Fast and professional work
 - Clean and maintainable code
 - SEO and speed optimized
-- Meeting deadlines
+- On-time project delivery
 
 ⚙️ Tech Stack:
 - Frontend - HTML, Markdown, CSS, SCSS, JavaScript, ES6, TypeScript
