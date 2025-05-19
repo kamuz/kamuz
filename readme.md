@@ -3,17 +3,17 @@
 I focus on creating extremely fast, easy-to-use, and SEO-friendly websites based on WordPress.
 
 ⚡️  My services:
-- WordPress Website – custom solutions based on your design mockups, from business websites and landing pages to advanced online stores.
-- Themes Development - build classic or block themes from scratch, or customize existing ones using child themes
-- Plugin Development - compliance with WordPress coding standards, OOP architecture, writing secure, understandable and maintainable code, multilingual support
-- WooCommerce - integration into existing theme or create WooCommerce theme from scratch, checkout, cart, category and product page customization, custom AJAX search and filters, payment gateway integration, multi-currency support, booking, membership, subscriptions and much more...
-- Gutenberg - custom Gutenberg blocks with React from scratch or using ACF Pro
-- Elementor - building custom websites based on Elementor Page Builder, custom add-ons and widget development.
-- External API - interaction with services such as Google Maps, Stripe, HubSpot, MailChimp, etc.
-- WordPress REST API - adding or editing endpoints, JWT and OAuth authentication, CRUD operations for any post types.
-- Multilingual Support - setup WPML & Polylang, localization themes and plugins
-- Website Speed & SEO Optimization - performance tuning and technical SEO improvements for better search engine rankings and user experience
-- Technical Support & Maintenance - bug fixes, security updates, and WordPress migration from other platforms
+- Custom WordPress website from scratch
+- Theme and plugin development
+- WooCommerce integration and customization
+- Custom Gutenberg blocks and Elementor widgets
+- Integration with external APIs
+- Setup WordPress REST API for headless and mobile apps
+- Multilingual websites with WPML and Polylang
+- Technical SEO
+- Improve WordPress speed and performance
+- Fix security vulnerabilities
+- Recover and debug broken websites
 
 💎 I guarantee:
 - Clean and maintainable code
